@@ -11,6 +11,9 @@ Entender os principais frameworks para testes unitários;
 Desenvolver testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão;
 TDD: apresentação e exemplo prático com 2 funcionaliades importantes.
 
+
+- ✅ Project updated to java 17.
+
 ```shell script
 mvn spring-boot:run 
 ```
@@ -26,7 +29,7 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 ```
 http://localhost:8080/api/v1/beers
 ```
-- ✅ Updated to java 17.
+
 
 ## 🛠️ Built with
 
